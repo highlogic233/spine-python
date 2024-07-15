@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: pyguts
+Version: 1.0b14
+Summary: A pygame front-end for spine-python.
+Home-page: https://github.com/terrysimons/spine-python/pyguts
+Author: Terry Simons
+Author-email: terry.simons@gmail.com
+Classifier: License :: OSI Approved :: BSD License
